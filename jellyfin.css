@@ -55,6 +55,18 @@
     background-color: rgba(0, 0, 0, 0);
   }
 
+  @media all and (min-width: 50em) {
+    .homePage .emby-scroller {
+      margin-right: 0;
+    }
+    .homePage .emby-scrollbuttons {
+      display: none;
+    }
+    .homePage .itemsContainer {
+      flex-wrap: wrap;
+    }
+  }
+
 .layout-mobile .itemBackdrop {
     display: block;
     -webkit-animation: backdrop-fadein .8s ease-in normal both;

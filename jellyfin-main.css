@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cantarell:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@500&display=swap');
 
 /* Limit Custom CSS code box size */
 #txtCustomCss, #txtLocalCustomCss {
@@ -14,6 +14,7 @@
 .preload, .css-fknfom, .css-4yt2of {
   background-color: #020006;
 }
+
 
 .emby-input, .emby-textarea, .collapseContent, .formDialogFooter:not(.formDialogFooter-clear), .formDialogHeader:not(.formDialogHeader-clear), .paperList, .visualCardBox {
   color: inherit;
